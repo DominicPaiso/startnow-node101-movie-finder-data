@@ -1,0 +1,1 @@
+This project will accept requests from a movie database API, then cache the data to be able to respond to subsequent reqeusts.
